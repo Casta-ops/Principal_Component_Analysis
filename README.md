@@ -9,6 +9,7 @@ Features:
 Visualization: Generates plots that display the contributions of each variable to the principal components, helping to interpret the key factors that drive variation in the data.
 
 Objective:
+
 The purpose of this project is to:
 
 - Reduce the number of variables in the wine dataset while preserving as much information as possible.
