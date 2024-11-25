@@ -1,6 +1,7 @@
 # Principal_Component_Analysis
 This repository contains the implementation of Principal Component Analysis (PCA) on a wine dataset, aimed at dimensionality reduction and feature interpretation. The dataset includes various physicochemical properties of wine samples, and the goal is to analyze how these features contribute to the overall variance and identify key components for future analysis.
 
+LINK TO THE VIDEO: https://youtu.be/vV4iBd3UOc8
 
 Features:
 - PCA Algorithm: A custom implementation of PCA from scratch, which includes loading data, computing covariance matrices, and extracting eigenvalues and eigenvectors.
