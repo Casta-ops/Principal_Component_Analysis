@@ -3,6 +3,8 @@ This repository contains the implementation of Principal Component Analysis (PCA
 
 LINK TO THE VIDEO: https://youtu.be/vV4iBd3UOc8
 
+LINK TO THE FULL VERSION: https://youtu.be/YrDsGn8GdyY
+
 Features:
 - PCA Algorithm: A custom implementation of PCA from scratch, which includes loading data, computing covariance matrices, and extracting eigenvalues and eigenvectors.
 - Data Analysis: The code performs dimensionality reduction and visualizes the principal components to better understand the underlying patterns in the data.
